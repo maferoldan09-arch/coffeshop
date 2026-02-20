@@ -1,0 +1,28 @@
+/*Recetear los estilos del navegador*/
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;margin: 0;
+}
+
+body{
+    font-family: lato, sans-serif;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #444;
+    background-color: #f9f7f3;
+}
+
+h1,h2,h3, .logo{
+    font-family: playfair Display, serif;
+    font-weight: 700; 
+    color: #2a2a2a;
+   
+}
+
+a{
+    text-decoration: none; /*Quita el subrayado de los enlaces*/
+    color: #884513;
+
+}
